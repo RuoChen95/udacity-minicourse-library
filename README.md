@@ -1,4 +1,3 @@
-# ud989-todo-app
 源代码在[这里](https://github.com/udacity/ud989-todo-app)，相关css已经给出
 随着[课程](https://classroom.udacity.com/nanodegrees/nd001/parts/00113454014/modules/271165859175461/lessons/3525509902/concepts/35747685650923#)的推进，老师带领我们增加了三个功能：
 
