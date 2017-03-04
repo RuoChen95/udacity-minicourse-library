@@ -7,6 +7,7 @@
 ## model
 1. 数据：设置初始值，这里有priority，completed以及titile
 2. 逻辑： 转换、验证、计算属性和访问控制，这里只涉及到了转换逻辑
+
 ## view
 创建自定义的视图类，构建重载 render 函数，声明 events， 以及通过 tagName, className, 或 id 为视图指定根元素。
 
