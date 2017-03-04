@@ -1,4 +1,5 @@
-本项目使用了Backbone.js的知识
+本项目使用了Backbone.js的知识。
+
 源代码在[这里](https://github.com/udacity/ud989-todo-app)，源码中需要的css已经给出。课程在[这里](https://classroom.udacity.com/nanodegrees/nd001/parts/00113454014/modules/271165859175461/lessons/3525509902/concepts/35747685650923#)
 
 ## 任务完后在任务的末尾加上“it is done”字符串
